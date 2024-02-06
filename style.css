@@ -1,0 +1,16 @@
+/* general */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* header */
+div h1 {
+    padding: 10px ;
+    display: inline-block;
+    vertical-align:top;
+    background-color: whites;
+}
+h1 {
+    text-align: center;
+}
