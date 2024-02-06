@@ -23,11 +23,23 @@ body {background-color: rgb(207, 204, 204);}
 /* main */
 
 /* button general */
-.button {
+.button-select {
     padding: 5px;
     border-radius: 8px;
 }
+.button-blue {
+    background-color: aqua;
+    color: white;
+}
 /* dimensioni */
 .mb {
-    margin-bottom: 20px;
+    margin: 20px 50px;
+    text-align: left;
+
+
+}
+.button {
+    padding: 4px;
+    color: white;
+    font-size: 14px;
 }
