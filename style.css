@@ -4,13 +4,30 @@
     padding: 0;
     box-sizing: border-box;
 }
+.box {
+    background-color: white;
+    margin-left: 20px;
+    padding: 5px;
+}
 /* header */
 div h1 {
-    padding: 10px ;
     display: inline-block;
     vertical-align:top;
-    background-color: whites;
+    margin-top: 5px;
 }
 h1 {
     text-align: center;
+}
+/* body */
+body {background-color: rgb(207, 204, 204);}
+/* main */
+
+/* button general */
+.button {
+    padding: 5px;
+    border-radius: 8px;
+}
+/* dimensioni */
+.mb {
+    margin-bottom: 20px;
 }
